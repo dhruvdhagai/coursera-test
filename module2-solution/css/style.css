@@ -67,7 +67,9 @@ p.c
 }
 
 section{
+	padding:10px;
   clear:right;
+}
 }
 /* Simple Responsive Framework. */
 .row {

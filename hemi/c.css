@@ -8,6 +8,7 @@ body {
   background: #B20940;
   color: #fff;
   font-weight: 300;
+   color: red;
 }
 
 h1 {
@@ -27,6 +28,7 @@ h1 {
     border-radius: 6px;
     color: #black;
     transition: 1s linear;
+
 }
 
 #button {
@@ -36,7 +38,7 @@ h1 {
     font-size: 20px;
     padding: 1em 2em;
     cursor: pointer;
-    margin: 0 auto 60px;
+    margin: 0 auto 30px;
     display: block;
     text-align: center;
     border-radius: 6px;
